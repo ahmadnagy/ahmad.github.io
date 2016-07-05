@@ -1,0 +1,10 @@
+
+<script type="text/javascript">
+function vape(url,name)
+{
+    alert(" You just unleashed VAPENATION gods you fool! \\//\\   ");
+}
+</script>
+
+
+<body onload="vape()"></body>
